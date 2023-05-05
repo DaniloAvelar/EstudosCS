@@ -1,0 +1,15 @@
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\bin\Debug\net6.0\Calculator.exe
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\bin\Debug\net6.0\Calculator.deps.json
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\bin\Debug\net6.0\Calculator.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\bin\Debug\net6.0\Calculator.pdb
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\obj\Debug\net6.0\Calculator.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\obj\Debug\net6.0\Calculator.pdb
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Calculadora\Calculator\obj\Debug\net6.0\ref\Calculator.dll
