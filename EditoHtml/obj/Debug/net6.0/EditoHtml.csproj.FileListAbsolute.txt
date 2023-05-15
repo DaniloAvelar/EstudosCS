@@ -1,0 +1,15 @@
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\bin\Debug\net6.0\EditoHtml.exe
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\bin\Debug\net6.0\EditoHtml.deps.json
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\bin\Debug\net6.0\EditoHtml.runtimeconfig.json
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\bin\Debug\net6.0\EditoHtml.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\bin\Debug\net6.0\EditoHtml.pdb
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\obj\Debug\net6.0\EditoHtml.csproj.AssemblyReference.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\obj\Debug\net6.0\EditoHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\obj\Debug\net6.0\EditoHtml.AssemblyInfoInputs.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\obj\Debug\net6.0\EditoHtml.AssemblyInfo.cs
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\obj\Debug\net6.0\EditoHtml.csproj.CoreCompileInputs.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\obj\Debug\net6.0\EditoHtml.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\obj\Debug\net6.0\refint\EditoHtml.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\obj\Debug\net6.0\EditoHtml.pdb
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\obj\Debug\net6.0\EditoHtml.genruntimeconfig.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\EditoHtml\obj\Debug\net6.0\ref\EditoHtml.dll
