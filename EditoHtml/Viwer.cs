@@ -12,9 +12,9 @@ namespace EditorHtml
             Console.ForegroundColor = ConsoleColor.Black;
             Console.Clear();
             Console.WriteLine("MODO VISUALIZAÇÃO");
-            Console.WriteLine("------------------------");
+            Console.WriteLine("-------------------------");
             Repleace(text);
-            Console.WriteLine("------------------------");
+            Console.WriteLine("-------------------------");
             Console.ReadKey();
             Menu.Show();
         }
