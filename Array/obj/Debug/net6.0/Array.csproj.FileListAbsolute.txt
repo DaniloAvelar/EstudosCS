@@ -1,0 +1,15 @@
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\bin\Debug\net6.0\Array.exe
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\bin\Debug\net6.0\Array.deps.json
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\bin\Debug\net6.0\Array.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\bin\Debug\net6.0\Array.pdb
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\obj\Debug\net6.0\Array.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\obj\Debug\net6.0\refint\Array.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\obj\Debug\net6.0\Array.pdb
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Array\obj\Debug\net6.0\ref\Array.dll
