@@ -1,0 +1,15 @@
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\bin\Debug\net6.0\Dates.exe
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\bin\Debug\net6.0\Dates.deps.json
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\bin\Debug\net6.0\Dates.runtimeconfig.json
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\bin\Debug\net6.0\Dates.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\bin\Debug\net6.0\Dates.pdb
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\obj\Debug\net6.0\Dates.csproj.AssemblyReference.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\obj\Debug\net6.0\Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\obj\Debug\net6.0\Dates.AssemblyInfoInputs.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\obj\Debug\net6.0\Dates.AssemblyInfo.cs
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\obj\Debug\net6.0\Dates.csproj.CoreCompileInputs.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\obj\Debug\net6.0\Dates.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\obj\Debug\net6.0\refint\Dates.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\obj\Debug\net6.0\Dates.pdb
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\obj\Debug\net6.0\Dates.genruntimeconfig.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\Datas\Dates\obj\Debug\net6.0\ref\Dates.dll
