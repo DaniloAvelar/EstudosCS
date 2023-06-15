@@ -1,0 +1,15 @@
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\bin\Debug\net6.0\Context.exe
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\bin\Debug\net6.0\Context.deps.json
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\bin\Debug\net6.0\Context.runtimeconfig.json
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\bin\Debug\net6.0\Context.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\bin\Debug\net6.0\Context.pdb
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\obj\Debug\net6.0\Context.csproj.AssemblyReference.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\obj\Debug\net6.0\Context.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\obj\Debug\net6.0\Context.AssemblyInfoInputs.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\obj\Debug\net6.0\Context.AssemblyInfo.cs
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\obj\Debug\net6.0\Context.csproj.CoreCompileInputs.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\obj\Debug\net6.0\Context.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\obj\Debug\net6.0\refint\Context.dll
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\obj\Debug\net6.0\Context.pdb
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\obj\Debug\net6.0\Context.genruntimeconfig.cache
+C:\Users\danilo.avelar\Documents\Danilo\Estudos\Balta\Projetos\CS\O_O\EAD\Context\obj\Debug\net6.0\ref\Context.dll
