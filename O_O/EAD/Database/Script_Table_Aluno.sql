@@ -1,0 +1,16 @@
+USE [EAD]
+GO
+
+CREATE TABLE [Aluno]
+(
+    [Id] UNIQUEIDENTIFIER NOT NULL,
+    [Nome] NVARCHAR(120) NOT NULL,
+    [Email] NVARCHAR(180) NOT NULL,
+    [Documento] NVARCHAR(20) NOT NULL,
+    [Celular] NVARCHAR(20) NOT NULL,
+    [DtNascimento] DATETIME NULL,
+    [DtCriacao] DATETIME NOT NULL DEFAULT(GETDATE()),
+
+    CONSTRAINT [PK_Aluno] PRIMARY KEY ([Id])
+);
+GO
