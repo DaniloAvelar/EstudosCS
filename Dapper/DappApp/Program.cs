@@ -17,9 +17,12 @@ public class Program
             //UpdateCategory(connection);
             //DeleteCategory(connection);
             //ListaCategories(connection);
-            // ProcExcluiAluno(connection);
+            //ProcExcluiAluno(connection);
             //ProcCourseByCategory(connection);
-            ReadView(connection);
+            //ReadView(connection);
+            //OneToOne(connection);
+            //OneToMany(connection);
+            Like(connection, "api");
 
         }
 
@@ -140,9 +143,9 @@ public class Program
         }
     }
 
-    static void ReadView(Sqlconnection connection)
+    static void ReadView(SqlConnection connection)
     {
-        var sql = "Select * From [vwCorses]";
+        var sql = "Select * From [vwCursosAtivos]";
         var courses = connection.Query(sql);
         foreach (var i in courses)
         {
@@ -153,7 +156,7 @@ public class Program
     //Mapeando Mais de um MODEL na mesma Query com Dapper, juntando como se fosse um Inner Join
     //Mapeamento 1 para 1
 
-    static void OneToOne(Sqlconnection connection)
+    static void OneToOne(SqlConnection connection)
     {
         var sql = @"
             SELECT 
@@ -171,7 +174,7 @@ public class Program
            Depois da Instrução SQL, sempre usar a função para explicar como vai carregar o Curso dentro da Carreira
         */
 
-        var items = connection.Query<CarrerItem, Course, CarrerItem>(
+        var items = connection.Query<CareerItem, Course, CareerItem>(
             sql,
             (carrerItem, course) =>
             {
@@ -199,7 +202,7 @@ public class Program
             INNER JOIN
                 [CareerItem] ON [CareerItem].[CareerId] = [Career].[Id]
             ORDER BY
-                [Carrer].[Title]";
+                [Career].[Title]";
 
         var careers = new List<Career>();
         var items = connection.Query<Career, CareerItem, Career>(
@@ -207,16 +210,16 @@ public class Program
             //Quais objetos estão sendo mapeados?
             (career, item) =>
             {
-                var car = career.Where(x => x.Id == career.Id).FirstOrDefault();
+                var car = careers.Where(x => x.Id == career.Id).FirstOrDefault();
                 if (car == null)
                 {
                     car = career;
-                    car.items.Add(item);
+                    car.Items.Add(item);
                     careers.Add(car);
                 }
                 else
                 {
-                    car.items.Add(item);
+                    car.Items.Add(item);
                 }
 
                 return career;
@@ -229,10 +232,26 @@ public class Program
             Console.WriteLine($"{career.Title}");
 
             //Percorrendo todos os itens dessa carreira
-            foreach (var item in career.items)
+            foreach (var item in career.Items)
             {
-                Console.WriteLine($"{item.Title}");
+                Console.WriteLine($" - {item.Title}");
             }
         }
     }
+
+    static void Like(SqlConnection connection, string term)
+    {
+        var sql = "SELECT * FROM [Course] WHERE [Title] LIKE @exp";
+
+        var items = connection.Query<Course>(sql, new
+        {
+            exp = $"%{term}%"
+        });
+
+        foreach(var item in items)
+        {
+            Console.WriteLine(item.Title);
+        }
+    }
+
 }
